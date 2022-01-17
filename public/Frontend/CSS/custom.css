@@ -1,0 +1,24 @@
+.products .slide {
+    text-align: center;
+}
+
+.products .slide img {
+    height: 25rem;
+    margin: 5rem 0;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+}
+
+
+.products .swiper-slide-active img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+.order-details label{
+    font-size: 12px;
+    font-weight: 700;
+}
+.order-details div{
+    font-size: 14px;
+}
+
